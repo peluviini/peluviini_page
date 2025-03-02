@@ -1,0 +1,10 @@
+/home/peluviini/my_page_github_io/target/debug/deps/libbevy_image-10b1fd9055ffcb57.rmeta: /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.3/src/lib.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.3/src/image.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.3/src/hdr_texture_loader.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.3/src/image_loader.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.3/src/ktx2.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.3/src/image_texture_conversion.rs
+
+/home/peluviini/my_page_github_io/target/debug/deps/bevy_image-10b1fd9055ffcb57.d: /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.3/src/lib.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.3/src/image.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.3/src/hdr_texture_loader.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.3/src/image_loader.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.3/src/ktx2.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.3/src/image_texture_conversion.rs
+
+/home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.3/src/lib.rs:
+/home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.3/src/image.rs:
+/home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.3/src/hdr_texture_loader.rs:
+/home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.3/src/image_loader.rs:
+/home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.3/src/ktx2.rs:
+/home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_image-0.15.3/src/image_texture_conversion.rs:

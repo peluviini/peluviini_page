@@ -1,0 +1,10 @@
+/home/peluviini/my_page_github_io/target/debug/deps/libbevy_audio-6b9b7aacb75dc7c9.rmeta: /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.3/src/lib.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.3/src/audio.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.3/src/audio_output.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.3/src/audio_source.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.3/src/pitch.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.3/src/sinks.rs
+
+/home/peluviini/my_page_github_io/target/debug/deps/bevy_audio-6b9b7aacb75dc7c9.d: /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.3/src/lib.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.3/src/audio.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.3/src/audio_output.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.3/src/audio_source.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.3/src/pitch.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.3/src/sinks.rs
+
+/home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.3/src/lib.rs:
+/home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.3/src/audio.rs:
+/home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.3/src/audio_output.rs:
+/home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.3/src/audio_source.rs:
+/home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.3/src/pitch.rs:
+/home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.15.3/src/sinks.rs:

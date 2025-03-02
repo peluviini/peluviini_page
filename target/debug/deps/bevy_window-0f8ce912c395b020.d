@@ -1,0 +1,11 @@
+/home/peluviini/my_page_github_io/target/debug/deps/libbevy_window-0f8ce912c395b020.rmeta: /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_window-0.15.3/src/lib.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_window-0.15.3/src/event.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_window-0.15.3/src/monitor.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_window-0.15.3/src/raw_handle.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_window-0.15.3/src/system.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_window-0.15.3/src/system_cursor.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_window-0.15.3/src/window.rs
+
+/home/peluviini/my_page_github_io/target/debug/deps/bevy_window-0f8ce912c395b020.d: /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_window-0.15.3/src/lib.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_window-0.15.3/src/event.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_window-0.15.3/src/monitor.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_window-0.15.3/src/raw_handle.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_window-0.15.3/src/system.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_window-0.15.3/src/system_cursor.rs /home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_window-0.15.3/src/window.rs
+
+/home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_window-0.15.3/src/lib.rs:
+/home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_window-0.15.3/src/event.rs:
+/home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_window-0.15.3/src/monitor.rs:
+/home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_window-0.15.3/src/raw_handle.rs:
+/home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_window-0.15.3/src/system.rs:
+/home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_window-0.15.3/src/system_cursor.rs:
+/home/peluviini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_window-0.15.3/src/window.rs:
